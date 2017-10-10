@@ -10,7 +10,7 @@ public class User implements Serializable {
    private int id;
    private String name;
    private String profession;
-// constructor
+// constructor added to verify something
    public User(){}
 
    public User(int id, String name, String profession){
